@@ -4,14 +4,74 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e5ba192-88b4-4b32-b28c-e7809e6947df" name="Changes" comment="" />
+    <list default="true" id="6e5ba192-88b4-4b32-b28c-e7809e6947df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.prettierrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Lobster-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eas.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Interfaces.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/StyleSheet.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-native.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/auth/Landing.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/auth/Register.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/screenComponents/Post.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/screenComponents/Status.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/screenComponents/Stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/screenComponents/accViews/PostAccViews.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/screenComponents/accViews/ProfileImage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/screenComponents/accViews/StoryImage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/screens/Activity.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/screens/Home.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/screens/Profile.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/screens/Reels.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/screens/Search.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/Images/anita-cavalcanti-76N_rYYn_RY-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/Images/charlesdeluvio-K4mSJ7kc0As-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/Images/dmitrii-vaccinium-kt_DBpVIBIw-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/Images/eiliv-aceron-uMuLAicIdDQ-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/Images/elisa-photography-V7GkPmHMUz8-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/Images/filip-rankovic-grobgaard-8u2xKgXJBgo-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/Images/frankie-cordoba-n_qhHDVRusI-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/Images/fynn-zentner-1L3czBXJwwo-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/Images/irina-muller-Q2Llc6YRL2A-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/Images/karl-hedin-y_VwUUNg6FM-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/Images/katie-azi-eX_f0ueFhtg-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/Images/kevin-wang-UKyqM9Z6L14-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/Images/luis-villasmil-hh3ViD0r0Rc-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/Images/map 1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/Images/mathias-reding-SgtFADBG_S4-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/Images/may-gauthier-s3mR42Spras-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/Images/mia-baker-jjhvyxm34nY-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/Images/neil-webb-2zfHAHgA6Y8-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/Images/peter-steiner-x3sWIm5PVa0-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/Images/tania-malrechauffe-Tq7lbAeF9BQ-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/Images/userProgile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage/Images/venti-views-_opC3urKMDQ-unsplash.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -36,9 +96,49 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/jasonsutherland/Desktop/bot-gram-demo/node_modules/prettier",
+    "settings.editor.selected.configurable": "JavaScript.Libraries",
+    "ts.external.directory.path": "/Users/jasonsutherland/Desktop/bot-gram-demo/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/screenComponents" />
+      <recent name="$PROJECT_DIR$/src/components/accViews" />
+      <recent name="$PROJECT_DIR$/src/storage/Images" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/assets/fonts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="ios" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="ios" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.ios" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,13 +148,36 @@
       <option name="presentableId" value="Default" />
       <updated>1665284886662</updated>
       <workItem from="1665284888138" duration="250000" />
+      <workItem from="1665285401154" duration="5998000" />
+      <workItem from="1665293715549" duration="711000" />
+      <workItem from="1665295858798" duration="13523000" />
+      <workItem from="1665351532971" duration="646000" />
+      <workItem from="1665356535883" duration="12548000" />
+      <workItem from="1665406468977" duration="210000" />
+      <workItem from="1665406691661" duration="242000" />
+      <workItem from="1665406954573" duration="3439000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

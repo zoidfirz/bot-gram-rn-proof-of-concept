@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "bot-gram-demo",
+    "owner": "ainr",
     "slug": "bot-gram-demo",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -18,7 +19,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ainr.botgramdemo"
     },
     "android": {
       "adaptiveIcon": {
@@ -28,6 +30,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "721f4f18-cced-4fd4-81ac-4683d6e66cfc"
+      }
     }
   }
 }
