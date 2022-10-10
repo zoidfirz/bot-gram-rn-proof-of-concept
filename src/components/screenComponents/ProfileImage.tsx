@@ -1,5 +1,5 @@
 import { Image, View } from 'react-native'
-import imageStyleSheet from '../../../../models/StyleSheet'
+import imageStyleSheet from '../../../models/StyleSheet'
 
 function ProfileImage(props: { source: any }) {
     return (

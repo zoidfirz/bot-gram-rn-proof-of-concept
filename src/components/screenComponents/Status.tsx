@@ -8,9 +8,9 @@ import {
     Animated,
 } from 'react-native'
 import imageStyleSheet from '../../../models/StyleSheet'
-import ProfileImage from './accViews/ProfileImage'
+import ProfileImage from './ProfileImage'
 import Ionic from 'react-native-vector-icons/Ionicons'
-import StoryImage from './accViews/StoryImage'
+import StoryImage from './StoryImage'
 import Feather from 'react-native-vector-icons/Feather'
 import { useEffect, useState } from 'react'
 import AnimatedView from 'react-native-reanimated/lib/types/reanimated2/component/View'

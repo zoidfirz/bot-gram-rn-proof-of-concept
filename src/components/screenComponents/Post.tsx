@@ -4,7 +4,7 @@ import Feather from 'react-native-vector-icons/Feather'
 import AntDesign from 'react-native-vector-icons/AntDesign'
 import imageStyleSheet from '../../../models/StyleSheet'
 import Ionic from 'react-native-vector-icons/Ionicons'
-import { PostCommentTray, PostImageActionBar } from './accViews/PostAccViews'
+import { PostCommentTray, PostImageActionBar } from './PostAccViews'
 import Entypo from 'react-native-vector-icons/Entypo'
 
 const Post = () => {
