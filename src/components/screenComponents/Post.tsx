@@ -4,7 +4,7 @@ import Feather from 'react-native-vector-icons/Feather'
 import AntDesign from 'react-native-vector-icons/AntDesign'
 import imageStyleSheet from '../../../models/StyleSheet'
 import Ionic from 'react-native-vector-icons/Ionicons'
-import PostImageActionBar from './accViews/PostAccViews'
+import { PostCommentTray, PostImageActionBar } from './accViews/PostAccViews'
 import Entypo from 'react-native-vector-icons/Entypo'
 
 const Post = () => {
@@ -118,83 +118,7 @@ const Post = () => {
 
                         <PostImageActionBar like={like} />
 
-                        <View style={{ paddingHorizontal: 15 }}>
-                            <Text>
-                                Liked by {like ? 'you and' : ''} {data.likes}{' '}
-                                others
-                            </Text>
-                            <Text
-                                style={{
-                                    fontWeight: '700',
-                                    fontSize: 14,
-                                    paddingVertical: 2,
-                                }}
-                            >
-                                {data.postMessage}
-                            </Text>
-                            <Text style={{ opacity: 0.4, paddingVertical: 2 }}>
-                                View all comments
-                            </Text>
-                            <View
-                                style={{
-                                    flexDirection: 'row',
-                                    justifyContent: 'space-between',
-                                }}
-                            >
-                                <View
-                                    style={{
-                                        flexDirection: 'row',
-                                        alignItems: 'center',
-                                    }}
-                                >
-                                    <Image
-                                        source={data.postOwnerImage}
-                                        style={{
-                                            width: 25,
-                                            height: 25,
-                                            borderRadius: 100,
-                                            backgroundColor: 'orange',
-                                            marginRight: 10,
-                                        }}
-                                    ></Image>
-                                    <TextInput
-                                        placeholder="Add a comment"
-                                        style={{ opacity: 0.5 }}
-                                    />
-                                </View>
-                                <View
-                                    style={{
-                                        flexDirection: 'row',
-                                        alignItems: 'center',
-                                    }}
-                                >
-                                    <Entypo
-                                        name="emoji-happy"
-                                        style={{
-                                            fontSize: 15,
-                                            color: 'green',
-                                            marginRight: 10,
-                                        }}
-                                    />
-                                    <Entypo
-                                        name="emoji-neutral"
-                                        style={{
-                                            fontSize: 15,
-                                            color: 'pink',
-                                            marginRight: 10,
-                                        }}
-                                    />
-                                    <Entypo
-                                        name="emoji-sad"
-                                        style={{
-                                            fontSize: 15,
-                                            color: 'red',
-                                            marginRight: 10,
-                                        }}
-                                    />
-                                </View>
-                            </View>
-                        </View>
+                        <PostCommentTray like={like} data={data} />
                     </View>
                 )
             })}
