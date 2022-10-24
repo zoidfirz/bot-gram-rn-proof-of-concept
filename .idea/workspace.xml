@@ -4,18 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e5ba192-88b4-4b32-b28c-e7809e6947df" name="Changes" comment="post and story demo complete">
-      <change afterPath="$PROJECT_DIR$/src/components/screenComponents/OverlayImage.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/screenComponents/SearchBox.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/screenComponents/SearchContent.tsx" afterDir="false" />
+    <list default="true" id="6e5ba192-88b4-4b32-b28c-e7809e6947df" name="Changes" comment="completed search page UI">
+      <change afterPath="$PROJECT_DIR$/my-app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/screenComponents/ReelsComponent.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/screenComponents/SingleReel.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/screenComponents/Post.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/screenComponents/Post.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/screenComponents/Status.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/screenComponents/Status.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/screenComponents/accViews/PostAccViews.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/screenComponents/PostAccViews.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/screenComponents/accViews/ProfileImage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/screenComponents/ProfileImage.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/screenComponents/accViews/StoryImage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/screenComponents/StoryImage.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/screens/Search.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/screens/Search.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/screens/Reels.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/screens/Reels.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +39,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FsdmRCeksAHtfqWqtzgQY8s5S2" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -120,7 +117,17 @@
       <workItem from="1665356535883" duration="12548000" />
       <workItem from="1665406468977" duration="210000" />
       <workItem from="1665406691661" duration="242000" />
-      <workItem from="1665406954573" duration="13137000" />
+      <workItem from="1665406954573" duration="16804000" />
+      <workItem from="1665610991919" duration="108000" />
+      <workItem from="1665612392464" duration="55000" />
+      <workItem from="1665612871842" duration="3860000" />
+      <workItem from="1665626513389" duration="50000" />
+      <workItem from="1665627423396" duration="3661000" />
+      <workItem from="1665631472819" duration="1246000" />
+      <workItem from="1665665210831" duration="1910000" />
+      <workItem from="1665673327393" duration="2000" />
+      <workItem from="1665755282048" duration="51000" />
+      <workItem from="1666618912012" duration="4070000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1665411715749</created>
@@ -143,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665412078944</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="completed search page UI">
+      <created>1665443933110</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665443933111</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,7 +178,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="init" />
     <MESSAGE value="post and story demo complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="post and story demo complete" />
+    <MESSAGE value="completed search page UI" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed search page UI" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
