@@ -6,6 +6,7 @@ import {
     StatusBar,
     Dimensions,
     Image,
+    SafeAreaView,
 } from 'react-native'
 import React, { useState } from 'react'
 import SearchBox from '../screenComponents/SearchBox'
@@ -22,7 +23,7 @@ const Search = () => {
     const windowHeight = Dimensions.get('window').height
 
     return (
-        <View
+        <SafeAreaView
             style={{
                 width: '100%',
                 height: '100%',
@@ -52,7 +53,7 @@ const Search = () => {
                 windowHeight={windowHeight}
                 windowWidth={windowWidth}
             />
-        </View>
+        </SafeAreaView>
     )
 }
 

@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e5ba192-88b4-4b32-b28c-e7809e6947df" name="Changes" comment="completed search page UI">
-      <change afterPath="$PROJECT_DIR$/my-app" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/screenComponents/ReelsComponent.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/screenComponents/SingleReel.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    <list default="true" id="6e5ba192-88b4-4b32-b28c-e7809e6947df" name="Changes" comment="reels page scrolling">
+      <change afterPath="$PROJECT_DIR$/src/components/screenComponents/Spacer.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/screenComponents/ReelsComponent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/screenComponents/ReelsComponent.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/screenComponents/SingleReel.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/screenComponents/SingleReel.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/screens/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/screens/Home.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/screens/Reels.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/screens/Reels.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/screens/Search.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/screens/Search.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +127,7 @@
       <workItem from="1665665210831" duration="1910000" />
       <workItem from="1665673327393" duration="2000" />
       <workItem from="1665755282048" duration="51000" />
-      <workItem from="1666618912012" duration="4070000" />
+      <workItem from="1666618912012" duration="5811000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1665411715749</created>
@@ -157,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665443933111</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="reels page scrolling">
+      <created>1666624410828</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666624410829</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +186,8 @@
     <MESSAGE value="init" />
     <MESSAGE value="post and story demo complete" />
     <MESSAGE value="completed search page UI" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed search page UI" />
+    <MESSAGE value="reels page scrolling" />
+    <option name="LAST_COMMIT_MESSAGE" value="reels page scrolling" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

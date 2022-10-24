@@ -4,6 +4,7 @@ import { color } from 'react-native-reanimated'
 import SwiperFlatList from 'react-native-swiper-flatlist'
 import SingleReel from './SingleReel'
 import { VideoData } from './Database'
+import Spacer from './Spacer'
 
 const ReelsComponent = () => {
     const [currentIndex, setCurrentIndex] = useState(0)

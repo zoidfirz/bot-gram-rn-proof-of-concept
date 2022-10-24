@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View } from 'react-native'
+import { SafeAreaView, StyleSheet, Text, View } from 'react-native'
 import { createNativeStackNavigator } from '@react-navigation/native-stack'
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs'
 
@@ -22,6 +22,7 @@ export default function App() {
                     headerShown: false,
                     tabBarStyle: {
                         height: 50,
+                        paddingBottom: 10,
                     },
                     tabBarIcon: ({ focused, size, color }) => {
                         let iconName: string

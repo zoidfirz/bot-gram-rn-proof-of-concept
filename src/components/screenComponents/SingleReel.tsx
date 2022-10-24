@@ -144,7 +144,7 @@ const SingleReel = ({ item, index, currentIndex }) => {
                     position: 'absolute',
                     width: windowWidth,
                     zIndex: 1,
-                    bottom: 0, //edited
+                    bottom: 60, //edited
                     padding: 10,
                 }}
             >
