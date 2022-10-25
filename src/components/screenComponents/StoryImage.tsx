@@ -1,4 +1,4 @@
-import { Image } from 'react-native'
+import { Image, SafeAreaView } from 'react-native'
 
 function StoryImage(props: { source: any }) {
     return (

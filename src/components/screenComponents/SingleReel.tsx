@@ -125,6 +125,7 @@ const SingleReel = ({ item, index, currentIndex }) => {
                     width: '100%',
                     height: '100%',
                     position: 'absolute',
+                    // bottom: 30,
                 }}
             />
             {/*</TouchableOpacity>*/}
@@ -144,7 +145,7 @@ const SingleReel = ({ item, index, currentIndex }) => {
                     position: 'absolute',
                     width: windowWidth,
                     zIndex: 1,
-                    bottom: 60, //edited
+                    bottom: 100, //edited
                     padding: 10,
                 }}
             >
